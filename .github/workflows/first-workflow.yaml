@@ -10,7 +10,5 @@ jobs:
 
             - name: multiline Command
               run: 
-                bnode -v
+                node -v
                 npm -v
-
-    
